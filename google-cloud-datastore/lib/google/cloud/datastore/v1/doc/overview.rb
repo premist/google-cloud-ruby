@@ -17,7 +17,7 @@ module Google
     # rubocop:disable LineLength
 
     ##
-    # # Ruby Client for Google Cloud Datastore API ([Alpha](https://github.com/GoogleCloudPlatform/google-cloud-ruby#versioning))
+    # # Ruby Client for Google Cloud Datastore API
     #
     # [Google Cloud Datastore API][Product Documentation]:
     # Accesses the schemaless NoSQL database to provide fully managed, robust,
